@@ -7,3 +7,12 @@ div{
     box-shadow: 10px 10px 15px blueviolet;
     width: 40%;
 }
+#second{
+color: blue;
+background-color: black;
+
+}
+#third{
+  color: brown;
+  background-color: yellow;
+}
